@@ -8,3 +8,11 @@ Repo for oppstartsuka til BIELSYS, BIAIS og BIELDIG i 2024. Her finner du alle f
 <p align="center">
   <img height="150" src="car.png" />
 </p>
+
+
+QR-kode for lerret-visning:
+<br>
+<br>
+<p align="center">
+  <img height="300" src="QR_oppstart_intro.png" />
+</p>
